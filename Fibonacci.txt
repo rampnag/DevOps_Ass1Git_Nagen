@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Fibonacci {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-populated way  stub
 		
 		int num;
 		Scanner input = new Scanner(System.in);
@@ -28,4 +28,8 @@ public class Fibonacci {
 	}
 
 }
+
 adding line by team member 3
+
+
+added another line by team member 2 to Fibonacce pgmn
